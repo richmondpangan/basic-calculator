@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.form-control {
+    height: 75px;
+    text-align: right;
+}
+
+.btn.btn-outline-secondary {
+    width: 100%;
+}
